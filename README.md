@@ -1,2 +1,1 @@
-"# Landing-Page" 
-My page is live at here https://kamidi21.github.io/Landing-Page/
+My page is live [here](https://kamidi21.github.io/Landing-Page/).
